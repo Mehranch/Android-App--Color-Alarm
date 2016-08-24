@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/White_Smoke" >
+
+    <ScrollView
+        android:id="@+id/scroll"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:fadingEdge="none"
+        android:fillViewport="true"
+        android:padding="2dp"
+        android:scrollbarStyle="insideOverlay" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp" >
+
+            <TextView
+                style="@style/PanelStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:padding="6dp"
+                android:text="Select Sound" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/panel_blank"
+                android:orientation="vertical"
+                android:padding="10dp" >
+
+                <RadioGroup
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:orientation="horizontal" >
+
+                    <RadioButton
+                        android:id="@+id/rb_Def"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:checked="true"
+                        android:text="Default"
+                        android:textColor="@color/primary" />
+
+                    <RadioButton
+                        android:id="@+id/rb_Custom"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="Custom"
+                        android:textColor="@color/primary" />
+                </RadioGroup>
+
+                <EditText
+                    android:id="@+id/et_Path"
+                    style="@style/EditTextStyle"
+                    android:layout_width="match_parent"
+                    android:background="@drawable/edittext_whitebg_primaryborder_notop_rounded"
+                    android:editable="false"
+                    android:hint="Custom sound file path"
+                    android:inputType="none"
+                    android:singleLine="true"
+                    android:textCursorDrawable="@null"
+                    android:textIsSelectable="true" >
+                </EditText>
+            </LinearLayout>
+
+            <TextView
+                style="@style/PanelStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:padding="6dp"
+                android:text="Set Alarm" />
+
+            <TimePicker
+                android:id="@+id/tp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/panel_blank"
+                android:padding="5dp" >
+            </TimePicker>
+
+            <Button
+                android:id="@+id/btnSave"
+                style="@style/ButtonStyle"
+                android:layout_width="100dp"
+                android:layout_gravity="right"
+                android:layout_marginTop="5dp"
+                android:text="Save" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

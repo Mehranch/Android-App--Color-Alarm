@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mehran\Desktop\Color Alarm\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1838d8dd17354601593ab7840642a141d9dc71b1">
+        <dex dex="C:\Users\Mehran\Desktop\Color Alarm\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_0fc9cdd6419de85414d383ce16cc15157279e416.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mehran\Desktop\Color Alarm\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="bd8d89d97dd49c99fd4d9aea91691a7702bb59f9">
+        <dex dex="C:\Users\Mehran\Desktop\Color Alarm\app\build\intermediates\pre-dexed\debug\instant-run_d2ba3094f9d281e88f0355b15dd42a8e212b4e07.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mehran\Desktop\Color Alarm\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Mehran\Desktop\Color Alarm\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_7f4ee09d385ad81871464038f7757957652adc26.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mehran\Desktop\Color Alarm\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Mehran\Desktop\Color Alarm\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_3f0aeacd8c943d9e61a0575b564b376c8bd50e0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mehran\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Mehran\Desktop\Color Alarm\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_2c45579625406bdddce47ba66c0c8101d24ccae7.jar" />
+    </item>
+
+</items>

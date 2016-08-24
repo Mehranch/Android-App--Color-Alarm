@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_33.png",
+        "source": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\src\\main\\res\\drawable-mdpi\\icon_33.png"
+    },
+    {
+        "merged": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\question_icon.png",
+        "source": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\src\\main\\res\\drawable-mdpi\\question_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm.png",
+        "source": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\src\\main\\res\\drawable-mdpi\\alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\settings.png",
+        "source": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\src\\main\\res\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\logo_33.png",
+        "source": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\src\\main\\res\\drawable-mdpi\\logo_33.png"
+    },
+    {
+        "merged": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\help.png",
+        "source": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\src\\main\\res\\drawable-mdpi\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\info_icon.png",
+        "source": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\src\\main\\res\\drawable-mdpi\\info_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exclamation_icon.png",
+        "source": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\src\\main\\res\\drawable-mdpi\\exclamation_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\rain.png",
+        "source": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\src\\main\\res\\drawable-mdpi\\rain.png"
+    },
+    {
+        "merged": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\plus_big.png",
+        "source": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\src\\main\\res\\drawable-mdpi\\plus_big.png"
+    },
+    {
+        "merged": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\hand_icon.png",
+        "source": "C:\\Users\\Mehran\\Desktop\\Color Alarm\\app\\src\\main\\res\\drawable-mdpi\\hand_icon.png"
+    }
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="status" format="reference" />
+    <attr name="MinValue" format="string">
+        <!-- For Date Updown: Specify minimum date in format of App.AppModel.ONLY_DATE_FORMAT -->
+    </attr>
+    <attr name="NumOfItemsPerPage" format="integer" />
+    <attr name="MaxValue" format="string">
+        <!-- For Date Updown: Specify maximum date in format of App.AppModel.ONLY_DATE_FORMAT -->
+    </attr>
+    <attr name="FontWeight">
+        <enum name="REGULAR" value="0" />
+        <enum name="LIGHT" value="1" />
+        <enum name="SEMI_BOLD" value="2" />
+    </attr>
+
+    <declare-styleable name="CircleImageView">
+        <attr name="civ_border_width" format="dimension" />
+        <attr name="civ_border_color" format="color" />
+        <attr name="civ_border_overlay" format="boolean" />
+        <attr name="civ_fill_color" format="color" />
+    </declare-styleable>
+
+</resources>
